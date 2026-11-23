@@ -1,0 +1,2 @@
+# jewelmanager-demo
+JewelChit Management
